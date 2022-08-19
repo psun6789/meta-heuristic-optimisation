@@ -2,8 +2,8 @@
 
 
 
-1) TASK-1: Markappa_Peter_Sunny_R00208303_MHA_Task_1_Local_Search.py
-2) TASK-2: Markappa_Peter_Sunny_R00208303_MHA_Task_2_GA.py
+1) TASK-1: Local_Search
+2) TASK-2: GA_MAX SAT
 
 
 
