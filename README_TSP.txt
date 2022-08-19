@@ -12,7 +12,7 @@ This folder Contains 2 Python Files, 3 TSP files, 1 pdf file and Readme file
 
 
 Execution steps
-1. open 'Markappa_Peter_Sunny_R00208303.py' in the command line argument specify the as mentioned below
+1. open 'TSP.py' in the command line argument specify the as mentioned below
  
 inst-6.tsp 10 500 150 0 0.8 1.05 0.25 0.0
 
