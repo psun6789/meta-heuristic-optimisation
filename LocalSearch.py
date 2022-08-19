@@ -1,8 +1,6 @@
 ''' 
 Name : Peter Sunny Shanthveer Markappa
-Student Number: R00208303
 Subject: Meta-Heuristic Optimisation
-Data of Submission: 14-August-2022
 Task: Local Search
 '''
 
@@ -12,7 +10,7 @@ import sys
 import time
 import random
 import numpy as np
-my_student_id = 208303
+my_student_id = 208303 # Random number it can be your number but for different there will be different output
 
 def readInstance(fName):
     file        = open(fName, 'r')
