@@ -15,21 +15,21 @@ All the parameters has to be passed using command line arguments
 
 ********************************************************************************************************************************************************************************************************************************
 
-1)	TASK-1: Markappa_Peter_Sunny_R00208303_MHA_Task_1_Local_Search.py
+1)	TASK-1: LocalSearch.py
 	
 	[FileName] [InstanceFile] [WalkProbability] [SomeProbability] [TabuList] [Iteration] [CountRestart]
 	
 	Example:
-	python Markappa_Peter_Sunny_R00208303_MHA_Task_1_Local_Search.py  uf20-01.cnf	0.3	0.3	100	10000	10
+	python LocalSearch.py  uf20-01.cnf	0.3	0.3	100	10000	10
 	
 ********************************************************************************************************************************************************************************************************************************
 
-2) 	TASK-2: Markappa_Peter_Sunny_R00208303_MHA_Task_2_GA.py
+2) 	TASK-2: MAXSAT.py
 
 	[FileName] [InstanceFile] [NumberofIteration] [PopulationSize] [PopulationSelection] [MutationRate] [Elitism]
 
 	Example:
-	python Markappa_Peter_Sunny_R00208303_MHA_Task_2_GA.py aes-mul_8_9.wcnf	2	10	0	20	0.10
+	python MAXSAT.py aes-mul_8_9.wcnf	2	10	0	20	0.10
 
 ********************************************************************************************************************************************************************************************************************************
 
